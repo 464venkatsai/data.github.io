@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react.js/static/css/main.6db6f756.css",
-    "main.js": "/react.js/static/js/main.0f8e000d.js",
-    "static/js/787.1cd43ffb.chunk.js": "/react.js/static/js/787.1cd43ffb.chunk.js",
-    "index.html": "/react.js/index.html",
-    "main.6db6f756.css.map": "/react.js/static/css/main.6db6f756.css.map",
-    "main.0f8e000d.js.map": "/react.js/static/js/main.0f8e000d.js.map",
-    "787.1cd43ffb.chunk.js.map": "/react.js/static/js/787.1cd43ffb.chunk.js.map"
+    "main.css": "/texteditors.github.io/static/css/main.6db6f756.css",
+    "main.js": "/texteditors.github.io/static/js/main.7c9210aa.js",
+    "static/js/787.94378e8a.chunk.js": "/texteditors.github.io/static/js/787.94378e8a.chunk.js",
+    "index.html": "/texteditors.github.io/index.html",
+    "main.6db6f756.css.map": "/texteditors.github.io/static/css/main.6db6f756.css.map",
+    "main.7c9210aa.js.map": "/texteditors.github.io/static/js/main.7c9210aa.js.map",
+    "787.94378e8a.chunk.js.map": "/texteditors.github.io/static/js/787.94378e8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6db6f756.css",
-    "static/js/main.0f8e000d.js"
+    "static/js/main.7c9210aa.js"
   ]
 }

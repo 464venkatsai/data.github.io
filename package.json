@@ -1,13 +1,12 @@
 {
-  "homepage": "https://464venkatsai.github.io/react.js",
-  "name": "react.js",
+  "homepage": "https://464venkatsai.github.io/texteditors.github.io",
+  "name": "texteditors.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "gh-pages": "^4.0.0",
     "ghpages": "^0.0.10",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -42,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
